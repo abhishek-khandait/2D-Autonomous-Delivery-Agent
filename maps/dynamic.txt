@@ -1,0 +1,9 @@
+5 5 0 0 4 4
+S....
+.##..
+..#..
+....#
+....G
+# dynamic obstacles schedule: t x y
+2 2 2
+4 3 3
