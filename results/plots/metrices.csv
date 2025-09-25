@@ -1,0 +1,14 @@
+a_star,large.txt,21,20,89,0.000559
+ucs,medium.txt,11,10,20,0.000137
+bfs,small.txt,4,3,7,0.000051
+bfs,medium.txt,11,10,20,0.000108
+bfs,large.txt,21,20,93,0.000323
+ucs,small.txt,4,3,6,0.000076
+ucs,large.txt,21,20,93,0.000546
+a_star,small.txt,4,3,4,0.000063
+a_star,large.txt,21,20,89,0.000560
+a_star,medium.txt,11,10,14,0.000108
+a_star,large.txt,21,20,89,0.000550
+a_star,large.txt,21,20,89,0.000552
+ucs,medium.txt,11,10,20,0.000126
+bfs,small.txt,4,3,7,0.000055
